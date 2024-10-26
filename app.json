@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e3f38167-3270-469c-8166-465cfd46abe2"
+      }
+    },
+    "owner": "iceon012"
   }
 }
